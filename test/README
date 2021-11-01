@@ -1,0 +1,6 @@
+test#1.. run the following in this directory
+./test_header_parser.sh
+this should compile and output simple parsing for 
+a simple query and a response used as input from
+query_example and response_example files.
+
