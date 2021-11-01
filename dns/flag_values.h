@@ -75,8 +75,8 @@
 ** Recursion Available: Set to 1 or cleared to 0 IN A RESPONSE to indicate whether 
 ** the server creating the response supports recursive queries.
 */
-#define RD_NOTSUPPREC  0
-#define RD_SUPPORTREC  1
+#define RA_RECNOTAVAIL  0
+#define RA_RECAVAIL     1
 
 /* RCODE VALUES */
 /* 
